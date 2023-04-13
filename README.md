@@ -1,3 +1,5 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+
 # Hi I'm Trairat. 👋 
 
 🎊สวัสดีครับ ผม ตรัยรัตน์ แก้วสอาด เป็นคนที่ชื่นชอบในการเขียนโค๊ด
