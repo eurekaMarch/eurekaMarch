@@ -2,7 +2,8 @@
 <br>
 
 ## My Skills :bee:
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 <!--
 **eurekaMarch/eurekaMarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
