@@ -3,7 +3,7 @@
 🎊สวัสดีครับ ผม ตรัยรัตน์ แก้วสอาด เป็นคนที่ชื่นชอบในการเขียนโค๊ด
 <br>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=html,css)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ## My Skills 🐝
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
