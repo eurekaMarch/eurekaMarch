@@ -5,7 +5,7 @@
 
 ## My Skills 🐝
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,ts,python,postgresql&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,vite&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 
 <br>
