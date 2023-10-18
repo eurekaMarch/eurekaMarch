@@ -4,7 +4,7 @@
 <br>
 
 ## My Skills 🐝
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,vite,react,nodejs,postgres,postman&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vite,react,nodejs,materialui,postman&perline=4)](https://skillicons.dev)
 
 
 <br>
